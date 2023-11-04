@@ -8,7 +8,7 @@ h1 {
 }
 
 h2 {
-    color:yellow;
+    color:purple;
     font-size:2em;
 }
 
@@ -16,9 +16,26 @@ p {
     background-color: darkgrey;
     color: darkgreen;
     font-size: 2em;
+    text-align:justify;
 }
+
+.poseban {
+    background-color: rgb(182, 13, 13);
+    color:tan;
+    font-size: 2em;
+}
+
+.img2 {
+    text-align:center;
+    width:852px;height:1000px;
+}
+
 
 a {
     color: blue;
-    font-size: 2em;
+    font-size: 1em;
+}
+
+img {
+    width:213px;height:250px;float:left";
 }
